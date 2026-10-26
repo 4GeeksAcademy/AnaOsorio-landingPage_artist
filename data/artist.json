@@ -1,0 +1,52 @@
+{
+  "artist": {
+    "name": "Artista de ejemplo",
+    "discipline": "Artes escénicas (ejemplo ficticio)",
+    "introduction": "Bienvenidos a este espacio de demostración dedicado a un artista ficticio.",
+    "biography": "Biografía de ejemplo: este texto se sustituirá por la historia y formación confirmadas del artista antes de publicar.",
+    "photo": {
+      "src": null,
+      "alt": null,
+      "permissionConfirmed": false
+    }
+  },
+  "projects": [
+    {
+      "title": "Escena abierta — proyecto ficticio",
+      "description": "Ejemplo de una propuesta escénica. Su contenido no representa un proyecto realizado por una persona real.",
+      "url": null
+    },
+    {
+      "title": "Encuentros — proyecto ficticio",
+      "description": "Ejemplo de colaboración artística pendiente de sustituir por un proyecto confirmado.",
+      "url": null
+    }
+  ],
+  "events": [],
+  "contact": {
+    "email": "artista@example.com",
+    "officialChannels": []
+  },
+  "seo": {
+    "title": "Artista de ejemplo | Demostración no oficial",
+    "description": "Demostración de una página de artista con biografía y proyectos ficticios. Información pendiente de confirmar; no es una web oficial."
+  },
+  "demo": {
+    "enabled": true,
+    "pendingFields": [
+      "artist.name",
+      "artist.discipline",
+      "artist.introduction",
+      "artist.biography",
+      "artist.photo.src",
+      "artist.photo.alt",
+      "artist.photo.permissionConfirmed",
+      "projects",
+      "events",
+      "contact.email",
+      "contact.officialChannels",
+      "seo.title",
+      "seo.description"
+    ]
+  }
+}
